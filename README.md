@@ -4,7 +4,7 @@
 
 Recover stellar periods from TESS light curves using Lomb–Scargle analysis.
 
----
+
 
 ## Features
 
@@ -14,7 +14,7 @@ Recover stellar periods from TESS light curves using Lomb–Scargle analysis.
 - Visualize period peaks
 - Save output figures
 
----
+
 
 ## Dataset
 
@@ -34,13 +34,13 @@ Reference rotation period:
 
 **0.514 days** :contentReference[oaicite:0]{index=0}
 
----
+
 
 ## Output Preview
 
 ![Periodogram](outputs/periodogram.png)
 
----
+
 
 
 ## Tools Used
@@ -51,7 +51,7 @@ Reference rotation period:
 - NumPy
 - Matplotlib
 
----
+
 
 ## Scientific Context
 
